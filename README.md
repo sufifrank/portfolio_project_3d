@@ -1,7 +1,7 @@
 # Portfolio Project 3D
 A 3D version to the [VR portfolio project](https://github.com/FaroukAjimi/ar-vr-portfolio-project)
 
-![alt text](screenshot.png)
+![Screenshot](screenshot.png)
 
 # Introduction:
 A 3 game dedicated for young audiences to raise awareness on sea pollution and protect the environment alternate reality of Tunisian cities.
